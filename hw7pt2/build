@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ derek_LED.cpp myBlink.cpp -o myBlink
